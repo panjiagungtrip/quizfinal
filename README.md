@@ -4,4 +4,4 @@
 2. Syauqi Jufri
 3. Vanessa
 4. Fery Riski Pebrian
-5. Panji Agung Tri Pamungkas
+5. Panji Agung Tri Pamungkas LINK GitHUb https://github.com/vanessasheila/SanbercodeQA-Kelompok10
